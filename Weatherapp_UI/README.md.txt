@@ -1,0 +1,9 @@
+Task 1: Weather App UI Design
+
+I've used Figma as my tool to develop this UI Design
+and I've named it "Weatherapp".
+
+GitHub Link: https://shorturl.at/ajoPT
+
+Coding Samurai 
+#uiuxdesign #codingsamurai #figma #internship
